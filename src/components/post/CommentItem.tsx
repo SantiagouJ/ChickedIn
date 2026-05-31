@@ -1,4 +1,5 @@
 import type { CommentItem as CommentItemModel } from '../../types/feed'
+import { parseInlineText } from '../../utils/parseInlineText'
 import { Avatar } from './Avatar'
 
 export function CommentItem({ comment }: { comment: CommentItemModel }) {
@@ -11,7 +12,7 @@ export function CommentItem({ comment }: { comment: CommentItemModel }) {
             <span className="comment-author">{comment.author.name}</span>
             <span className="comment-time">· {comment.timeRelative}</span>
           </p>
-          <p className="comment-text">{comment.text}</p>
+          <p className="comment-text">{parseInlineText(comment.text)}</p>
         </div>
       </div>
     </li>

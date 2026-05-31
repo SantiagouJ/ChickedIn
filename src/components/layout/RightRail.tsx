@@ -4,9 +4,9 @@ import { TrendsPanel } from '../sidebar/TrendsPanel'
 
 export function RightRail() {
   return (
-    <aside className="rail-right" aria-label="Tendencias y contexto">
-      <TrendsPanel items={TRENDS} />
+    <aside className="rail-right" aria-label="Sugerencias y tendencias">
       <NearbyHensPanel hens={NEARBY_HENS} />
+      <TrendsPanel items={TRENDS} />
     </aside>
   )
 }

@@ -12,7 +12,7 @@ export function Avatar({
   size = 'md',
 }: {
   person: Pick<Person, 'name' | 'initials' | 'avatarSrc' | 'avatarTone'>
-  size?: 'md' | 'xs' | 'suggestion'
+  size?: 'md' | 'xs' | 'suggestion' | 'profile'
 }) {
   const [imageFailed, setImageFailed] = useState(false)
   const showPhoto = Boolean(person.avatarSrc) && !imageFailed
@@ -21,6 +21,7 @@ export function Avatar({
     toneClass(person.avatarTone),
     size === 'xs' ? 'avatar--xs' : '',
     size === 'suggestion' ? 'avatar--suggestion' : '',
+    size === 'profile' ? 'avatar--profile' : '',
     showPhoto ? 'avatar--photo' : '',
   ]
     .filter(Boolean)

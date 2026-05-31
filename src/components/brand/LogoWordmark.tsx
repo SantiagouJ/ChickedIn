@@ -1,11 +1,13 @@
 export function LogoWordmark({
   variant = 'full',
 }: {
-  variant?: 'full' | 'mobile'
+  variant?: 'full' | 'mobile' | 'header'
 }) {
-  return (
-    <div className={variant === 'mobile' ? 'mobile-logo' : 'logo-word'}>
-      Chicked<span>In</span>
-    </div>
-  )
+  if (variant === 'header') {
+    return <span className="header-wordmark">ChickedIn</span>
+  }
+  if (variant === 'mobile') {
+    return <span className="mobile-logo">ChickedIn</span>
+  }
+  return <div className="logo-word">ChickedIn</div>
 }

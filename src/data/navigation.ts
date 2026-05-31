@@ -1,4 +1,9 @@
-export type NavIconName = 'home' | 'search' | 'mail' | 'chart'
+export type NavIconName =
+  | 'home'
+  | 'network'
+  | 'jobs'
+  | 'messaging'
+  | 'notifications'
 
 export interface NavItem {
   label: string
@@ -9,7 +14,8 @@ export interface NavItem {
 
 export const MAIN_NAV: NavItem[] = [
   { label: 'Inicio', href: '#feed', icon: 'home', current: true },
-  { label: 'Explore el corral', href: '#feed', icon: 'search' },
-  { label: 'Correo del gallinero', href: '#feed', icon: 'mail' },
-  { label: 'Insights pico a pico', href: '#feed', icon: 'chart' },
+  { label: 'Mi red', href: '#feed', icon: 'network' },
+  { label: 'Empleos', href: '#feed', icon: 'jobs' },
+  { label: 'Mensajes', href: '#feed', icon: 'messaging' },
+  { label: 'Notificaciones', href: '#feed', icon: 'notifications' },
 ]

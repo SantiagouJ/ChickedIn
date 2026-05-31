@@ -9,9 +9,7 @@ const DEMO_MSG =
 
 export function ComposeCard() {
   const [value, setValue] = useState('')
-  const [placeholder, setPlaceholder] = useState(
-    'Comparte datos (espacio disponible, acceso al perchero, silencios incómodos en la línea...)',
-  )
+  const [placeholder, setPlaceholder] = useState('¿Sobre qué quieres hablar?')
 
   function publish() {
     const next = value.trim()
@@ -24,7 +22,7 @@ export function ComposeCard() {
   }
 
   return (
-    <section className="compose-card" aria-labelledby="compose-label">
+    <section className="compose-card panel" aria-labelledby="compose-label">
       <div className="compose-inner">
         <Avatar
           person={{
@@ -34,9 +32,6 @@ export function ComposeCard() {
           }}
         />
         <div className="compose-field-wrap">
-          <p id="compose-label" className="compose-label">
-            ¿Qué problemática observaste en el turno?
-          </p>
           <label className="visually-hidden" htmlFor="compose">
             Escribir publicación
           </label>
@@ -47,12 +42,16 @@ export function ComposeCard() {
             value={value}
             onChange={(e) => setValue(e.target.value)}
             placeholder={placeholder}
+            aria-labelledby="compose-label"
           />
+          <span id="compose-label" className="visually-hidden">
+            Crear publicación
+          </span>
         </div>
       </div>
       <div className="compose-actions">
         <button type="button" className="btn-publish" onClick={publish}>
-          Publicar en la bandada
+          Publicar
         </button>
       </div>
     </section>

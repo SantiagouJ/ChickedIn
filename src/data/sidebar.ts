@@ -2,38 +2,39 @@ import type { NearbyHen, TrendItem } from '../types/feed'
 
 export const TRENDS: TrendItem[] = [
   {
-    num: '01',
-    title: '#HuevosSinJaula',
-    description:
-      'Compromisos públicos versus calendarios internos revisados desde el comedero digital.',
+    num: '',
+    title: 'Precios del mercado de gusanos se disparan',
+    description: 'Análisis · Tendencia nacional',
   },
   {
-    num: '02',
-    title: 'Indicadores de sufrir-hours',
-    description:
-      'Marcos cuantitativos de bienestar: leer antes de KPIs sólo económicos.',
+    num: '',
+    title: 'Gerente de construcción de nidos',
+    description: 'Empleo · 2.4k publicaciones esta semana',
   },
   {
-    num: '03',
-    title: 'Brunch transparente',
-    description:
-      '¿De qué granja llegó este carton? Threads abiertos, respuestas a medias.',
+    num: '',
+    title: 'Brunch transparente vuelve al corral',
+    description: 'Debates · Origen del cartón',
   },
 ]
 
 export const NEARBY_HENS: NearbyHen[] = [
   {
     name: 'Paloma Rustic',
-    subtitle:
-      'Experta relaciones inter-jaulas · 120 contactos mutuos en el mismo pasillo.',
+    subtitle: 'Experta en relaciones inter-jaulas',
     initials: 'PR',
     tone: 'muted',
   },
   {
     name: 'Ana Fénix',
-    subtitle:
-      'Coach de perchas mindfulness · Abierta colaboraciones en segunda fila.',
+    subtitle: 'Coach de perchas mindfulness',
     initials: 'AF',
     tone: 'warm',
+  },
+  {
+    name: 'Cresta-Fe',
+    subtitle: 'Operario · Huevos en acción',
+    initials: 'CF',
+    tone: 'default',
   },
 ]
