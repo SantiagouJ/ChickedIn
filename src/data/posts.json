@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1",
+    "author": {
+      "name": "Egg-lizabeth",
+      "initials": "EL",
+      "avatarSrc": "pf1.png",
+      "avatarTone": "warm"
+    },
+    "verified": true,
+    "timeRelative": "6 abr 2026",
+    "role": "Nueva integrante de producción · Pastelitos Ricos",
+    "problemTag": "Problemática — ingreso al sistema productivo",
+    "body": "Este es un nuevo comienzo, un sueño que había esperado por mucho tiempo. Les mando un Cloqueo desde \"Pastelitos Ricos\", la empresa que me contrató. Estoy muy emocionada por aportar a la industria que alimenta a todo el país. Dejen sus consejos en comentarios. Los estaré leyendo. #PrimerDia #TrabajoSoñado",
+    "photo": {
+      "src": "1.png",
+      "alt": "Egg-lizabeth con corbata frente a las instalaciones de Pastelitos Ricos"
+    },
+    "metrics": [
+      {
+        "value": "612",
+        "label": "picoteos útiles"
+      },
+      {
+        "value": "2",
+        "label": "comentarios"
+      }
+    ],
+    "commentsHeadingCount": "2",
+    "comments": [
+      {
+        "id": "c1",
+        "author": {
+          "name": "Clara-Bella",
+          "initials": "CB",
+          "avatarSrc": "pf2.png"
+        },
+        "timeRelative": "hace 1 h",
+        "text": "Estoy alegre por ti, hasta las plumas. Espero sea de esas empresas que presume su sistema de gallinas felices de libre pastoreo.",
+        "actions": [
+          "Útil",
+          "Responder"
+        ]
+      },
+      {
+        "id": "c2",
+        "author": {
+          "name": "Cresta-Fe",
+          "initials": "CF",
+          "avatarSrc": "pf3.png"
+        },
+        "timeRelative": "hace 30 min",
+        "text": "Me ericé de la emoción. ¡Enséñeles quién manda en el gallinero! Te deseo que tus huevos sean los mejores para esos pasteles.",
+        "actions": [
+          "Apoyo",
+          "Responder"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "author": {
+      "name": "Egg-lizabeth",
+      "initials": "EL",
+      "avatarSrc": "pf1.png",
+      "avatarTone": "warm"
+    },
+    "verified": true,
+    "timeRelative": "14 abr 2026",
+    "role": "Operaria de producción · Pastelitos Ricos",
+    "problemTag": "Problemática — hacinamiento y espacio reducido",
+    "body": "Este es mi nuevo espacio de trabajo. Me encanta estar en organizaciones tan innovadoras. Aquí trabajamos en formatos \"monoambiente\" optimizados. ¡Tengo todo lo necesario a mi alcance sin perder tiempo en desplazarme! 💼🥚 #Eficiencia #EspaciosModernos",
+    "photo": {
+      "src": "2.png",
+      "alt": "Selfie de Egg-lizabeth en un cubículo extremadamente estrecho"
+    },
+    "metrics": [
+      {
+        "value": "438",
+        "label": "reacciones"
+      },
+      {
+        "value": "2",
+        "label": "comentarios"
+      }
+    ],
+    "commentsHeadingCount": "2",
+    "comments": [
+      {
+        "id": "c3",
+        "author": {
+          "name": "Clara-Bella",
+          "initials": "CB",
+          "avatarSrc": "pf2.png"
+        },
+        "timeRelative": "hace 50 min",
+        "text": "Egg-Elizabeth, eres una gran pollifesional... pero ¿no hay espacios un poco más grandes? Se ve un tris apretado.",
+        "actions": [
+          "Responder"
+        ]
+      },
+      {
+        "id": "c4",
+        "author": {
+          "name": "Cresta-Fe",
+          "initials": "CF",
+          "avatarSrc": "pf3.png"
+        },
+        "timeRelative": "hace 20 min",
+        "text": "Egg-Eli, me quedé esperando la granja con tu nidito propio. Esa ofi está demasiado chiqui. Recuerda que el espacio influye en la salud productiva. ¡Ojo con el estrés!",
+        "actions": [
+          "Útil",
+          "Responder"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "author": {
+      "name": "Egg-lizabeth",
+      "initials": "EL",
+      "avatarSrc": "pf1.png",
+      "avatarTone": "warm"
+    },
+    "verified": true,
+    "timeRelative": "22 abr 2026",
+    "role": "Operaria de producción · Pastelitos Ricos",
+    "problemTag": "Problemática — hacinamiento y estrés social",
+    "body": "¡Conocí mi team de producción! Aquí apretaditas hacemos magia para sus pastelitos diarios. La empresa dice que la cercanía fomenta la sinergia. ¡A darlo todo por los objetivos del mes! #Team #ProducciónFeliz #NuevaFamilia",
+    "photo": {
+      "src": "3.png",
+      "alt": "Selfie de Egg-lizabeth con dos compañeras en un espacio reducido"
+    },
+    "metrics": [
+      {
+        "value": "721",
+        "label": "interacciones"
+      },
+      {
+        "value": "3",
+        "label": "comentarios"
+      }
+    ],
+    "commentsHeadingCount": "3",
+    "comments": [
+      {
+        "id": "c5",
+        "author": {
+          "name": "Egg-Tein",
+          "initials": "ET",
+          "avatarSrc": "pf4.png"
+        },
+        "timeRelative": "hace 2 h",
+        "text": "Felicidades por tu nuevo círculo profesional.",
+        "actions": [
+          "Apoyo"
+        ]
+      },
+      {
+        "id": "c6",
+        "author": {
+          "name": "Egg-Sheran",
+          "initials": "ES",
+          "avatarSrc": "pf5.png"
+        },
+        "timeRelative": "hace 1 h",
+        "text": "Qué lindo equipo, Liz. Se ven súper unidas (literalmente jajaja).",
+        "actions": [
+          "Responder"
+        ]
+      },
+      {
+        "id": "c7",
+        "author": {
+          "name": "Katty Pio",
+          "initials": "KP",
+          "avatarSrc": "pf6.png"
+        },
+        "timeRelative": "hace 40 min",
+        "text": "La sinergia se nota, pero cuídense mucho entre ustedes, chicas. Se ven un poco cansaditas.",
+        "actions": [
+          "Útil",
+          "Responder"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "author": {
+      "name": "Egg-lizabeth",
+      "initials": "EL",
+      "avatarSrc": "pf1.png",
+      "avatarTone": "warm"
+    },
+    "verified": true,
+    "timeRelative": "28 abr 2026",
+    "role": "Operaria de producción · Pastelitos Ricos",
+    "problemTag": "Problemática — alimentación deficiente y condiciones insalubres",
+    "body": "¡Hora del break! Hoy quería mostrarles el menú estandarizado que la empresa nos provee para optimizar el tiempo de picoteo. Mis compañeras dicen que el concentrado no ha cambiado en años y les preocupa la falta de nutrientes para el calcio de los huevos, pero yo digo: ¡hay que ponerse la camiseta por la empresa! Aunque admito que me quedé con ganas de estirar las patas... el tiempo vuela y los estándares de entrega son estrictos. #AlmuerzoCorporativo",
+    "photo": {
+      "src": "4.png",
+      "alt": "Egg-lizabeth comiendo en un espacio donde duerme, trabaja y realiza sus necesidades"
+    },
+    "metrics": [
+      {
+        "value": "539",
+        "label": "reacciones"
+      },
+      {
+        "value": "3",
+        "label": "comentarios"
+      }
+    ],
+    "commentsHeadingCount": "3",
+    "comments": [
+      {
+        "id": "c8",
+        "author": {
+          "name": "Egg-Tein",
+          "initials": "ET",
+          "avatarSrc": "pf4.png"
+        },
+        "timeRelative": "hace 3 h",
+        "text": "Qué extraño... aquí en mi finca consumimos maíz dulce, vegetales frescos y gusanitos. Nunca había visto esa comida tan gris. ¿Eso nutre?",
+        "actions": [
+          "Responder"
+        ]
+      },
+      {
+        "id": "c9",
+        "author": {
+          "name": "Katty Pio",
+          "initials": "KP",
+          "avatarSrc": "pf6.png"
+        },
+        "timeRelative": "hace 2 h",
+        "text": "Amiga, ¿estás bien? No es normal almorzar donde trabajas y haces tus necesidades. Revisa eso, por favor.",
+        "actions": [
+          "Útil",
+          "Responder"
+        ]
+      },
+      {
+        "id": "c10",
+        "author": {
+          "name": "Egg-Sheran",
+          "initials": "ES",
+          "avatarSrc": "pf5.png"
+        },
+        "timeRelative": "hace 1 h",
+        "text": "Se ve muy descuidado el lugar del fondo... :/. Desde que te sigo ya no veo los PASTELITOS RICOS igual, la mejor marca de pastelitos, pero ¿a qué costo?",
+        "actions": [
+          "Debatible",
+          "Responder"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "author": {
+      "name": "Egg-lizabeth",
+      "initials": "EL",
+      "avatarSrc": "pf1.png",
+      "avatarTone": "warm"
+    },
+    "verified": true,
+    "timeRelative": "3 mayo 2026",
+    "role": "Ponedora principal · Récord de producción",
+    "problemTag": "Problemática — agotamiento y explotación",
+    "body": "¡Mis plumas... les extrañaron! Mis alas pesan, las plumas se me caen a pedazos y apenas tengo fuerza para cloquear. Pero tranquis, ¡todo sea por el sabor que Colombia ama y por seguir poniendo PONQUESITOS RICOS en su mesa! Soy un eje clave en la línea de producción y más ahora que tenemos un récord de ventas. #VidaDePonedora",
+    "photo": {
+      "src": "5.png",
+      "alt": "Egg-lizabeth demacrada, con pérdida de plumas y signos evidentes de agotamiento"
+    },
+    "metrics": [
+      {
+        "value": "1.8k",
+        "label": "reacciones"
+      },
+      {
+        "value": "3",
+        "label": "comentarios"
+      }
+    ],
+    "commentsHeadingCount": "3",
+    "comments": [
+      {
+        "id": "c11",
+        "author": {
+          "name": "Clara-Bella",
+          "initials": "CB",
+          "avatarSrc": "pf2.png"
+        },
+        "timeRelative": "hace 3 h",
+        "text": "EGG-LIZ!! Te vemos destruida, eso NO es normal. ¿Cuánto más aguantas?",
+        "actions": [
+          "Apoyo",
+          "Responder"
+        ]
+      },
+      {
+        "id": "c12",
+        "author": {
+          "name": "Cresta-Fe",
+          "initials": "CF",
+          "avatarSrc": "pf3.png"
+        },
+        "timeRelative": "hace 2 h",
+        "text": "¡RENUNCIA YA LIZ! Mereces pasto, tierra y cielo abierto, no esa jaula infernal. Esto es maltrato. Esto también demuestra la calidad de PONQUESITOS RICOS, dejemos de comprar.",
+        "actions": [
+          "Útil",
+          "Responder"
+        ]
+      },
+      {
+        "id": "c13",
+        "author": {
+          "name": "Egg-Tein",
+          "initials": "ET",
+          "avatarSrc": "pf4.png"
+        },
+        "timeRelative": "hace 1 h",
+        "text": "Agotada pero feliz jajaja SÍ CLARO. Liz, parpadea dos veces si tu empresa te tiene secuestrada. Esos huevos que pones saben a desesperación.",
+        "actions": [
+          "Debatible",
+          "Responder"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "author": {
+      "name": "Pastelitos Ricos Colombia",
+      "initials": "PR",
+      "avatarSrc": "pfponquesitos.png",
+      "avatarTone": "warm"
+    },
+    "verified": true,
+    "timeRelative": "Publicidad",
+    "role": "Cuenta oficial corporativa",
+    "problemTag": "Problemática — greenwashing y ocultamiento corporativo",
+    "body": "¡Gracias, Colombia! 🇨🇴 Nos llena de orgullo compartir que hemos sido reconocidos nuevamente como la empresa de repostería más querida y recordada por las familias colombianas. En Pastelitos Ricos combinamos tradición, amor y los ingredientes más frescos de nuestra granja para llevar felicidad a tu mesa. Porque detrás de cada \"Pastel Rico\", ¡hay un equipo feliz dando lo mejor! #EmpresaEjemplar #OrgulloColombiano #Bienestar",
+    "photo": {
+      "src": "./src/assets/ponquesitos.png",
+      "alt": "Arte publicitario corporativo mostrando gallinas caricaturizadas en un prado verde junto a productos Pastelitos Ricos"
+    },
+    "metrics": [
+      {
+        "value": "4.2k",
+        "label": "me gusta"
+      },
+      {
+        "value": "5",
+        "label": "comentarios destacados"
+      }
+    ],
+    "commentsHeadingCount": "5",
+    "comments": [
+      {
+        "id": "c14",
+        "author": {
+          "name": "Egg-Tein",
+          "initials": "ET",
+          "avatarSrc": "pf4.png"
+        },
+        "timeRelative": "hace 3 h",
+        "text": "¡Los mejores ponqués del país! Mi hijo no desayuna sin su Pastelito. ¡Felicitaciones por el premio!",
+        "actions": [
+          "Me gusta",
+          "Responder"
+        ]
+      },
+      {
+        "id": "c16",
+        "author": {
+          "name": "Egg-Sheran",
+          "initials": "ES",
+          "avatarSrc": "pf5.png"
+        },
+        "timeRelative": "hace 1 h",
+        "text": "¿DÓNDE ESTÁ LIZ? Hace semanas no publica nada, no responde los mensajes y su última foto era alarmante. @PastelitosRicosCol respondan.",
+        "actions": [
+          "Útil",
+          "Responder"
+        ]
+      },
+      {
+        "id": "c17",
+        "author": {
+          "name": "Cresta-Fe",
+          "initials": "CF",
+          "avatarSrc": "pf3.png"
+        },
+        "timeRelative": "hace 45 min",
+        "text": "Es una farsa. Mientras ustedes ganan premios y publican fotos de campos verdes, las gallinas reales se están muriendo en jaulas de un metro. ¡Exigimos saber qué pasó con Egg-lizabeth!",
+        "actions": [
+          "Apoyo",
+          "Responder"
+        ]
+      },
+      {
+        "id": "c18",
+        "author": {
+          "name": "Bot_Corporativo_Atención",
+          "initials": "BA",
+          "avatarSrc": "pfbot.png",
+          "avatarTone": "muted"
+        },
+        "timeRelative": "hace 30 min",
+        "text": "@Egg-Sheran @Cresta-Fe ¡Hola! En Pastelitos Ricos cumplimos con todas las normativas legales vigentes y garantizamos procesos de alta calidad. Para quejas y reclamos, escríbenos a nuestro canal de servicio al cliente. ¡Feliz día!",
+        "actions": [
+          "Información"
+        ]
+      }
+    ]
+  }
+]
